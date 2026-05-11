@@ -13,7 +13,7 @@ I specialize in bridging the gap between complex data and business strategy. My 
 ---
 
 ### 🎸 Outside of Data
-When I'm not writing SQL queries or building dashboards, you can usually find me at the gym, playing my guitars, or playing video games.
+When I'm not writing SQL queries or building dashboards, you can usually find me at the gym, learning new songs on my guitars, or playing video games.
 
 ---
 
