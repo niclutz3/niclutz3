@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nic 👋
 
-<!--
-**niclutz3/niclutz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | UGA Terry College of Business MIS Graduate
+I specialize in bridging the gap between complex data and business strategy. My experience ranges from building end-to-end Power BI dashboards from the ground up, handling everything from Snowflake dataset creation to SQL development and stakeholder presentations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Tech Stack
+* **Analytics & BI:** Power BI (DAX), Tableau, Snowflake, Excel 
+* **Data Tools:** SQL (Snowflake, SSMS), Python, R, Apache Spark
+* **Methodology:** Data Modeling, ETL, Dashboard Design, & Process Improvement
+
+---
+
+### 🎸 Outside of Data
+When I'm not writing SQL queries or building dashboards, you can usually find me at the gym, playing my guitars, or playing video games.
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/nic-w-lutz](https://www.linkedin.com/in/nic-w-lutz) 
+* **Email:** [nicolutz03@gmail.com](mailto:nicolutz03@gmail.com)
