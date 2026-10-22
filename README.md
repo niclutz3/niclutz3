@@ -1,6 +1,6 @@
 # Hi, I'm Nic 👋
 
-### Aspiring Data Analyst | UGA Terry College of Business MIS Graduate
+### Data Analyst | UGA Terry College of Business MIS Graduate
 I specialize in bridging the gap between complex data and business strategy. My experience ranges from building end-to-end Power BI dashboards from the ground up, handling everything from Snowflake dataset creation to SQL development and stakeholder presentations.
 
 ---
